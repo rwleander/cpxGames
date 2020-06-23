@@ -1,3 +1,7 @@
+#  Python code for Ten Games for the Circuit Playground Express
+#    by Rick Leander
+#    Copyright (c) 2020 Rick Leander All rights reserved
+#
 # space lander game
 
 from adafruit_circuitplayground import cp
