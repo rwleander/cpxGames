@@ -3,7 +3,7 @@
 #  Copyright (c) 2020 Rick Leander All rights reserved
 #  Buy the book at https://www.amazon.com/author/rleander
 #
-# Space Invaders
+# Alien Invaders
 
 from adafruit_circuitplayground import cp
 import random

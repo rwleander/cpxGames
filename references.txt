@@ -1,16 +1,22 @@
 References
 
-Game 1 - Circuit Pong
+Circuit Python Quick-Start 
+https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart
 
-Pong Game: 
-https://www.ponggame.org/
+Circuit Playground Express overview
+https://learn.adafruit.com/adafruit-circuit-playground-express/overview
 
-    Atari Pong Game video: 
-https://www.youtube.com/watch?v=e4VRgY3tkh0
+Circuit Playground Python library tutorials
+https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/
 
+Circuit Playground cp library reference
+https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/api.html#adafruit_circuitplayground.express.cpx
 
-Game 2 - Scissors, Paper, Rock
+Circuit Python home page
+https://circuitpython.org/
 
-The Long, Winding History of Rock Paper Scissors, Popular Mechanics:
-https://www.popularmechanics.com/culture/gaming/a31213381/rock-paper-scissors-history/
+Adafruit Circuit Playground products
+https://www.adafruit.com/categories/965
 
+Adafruit home page
+https://www.adafruit.com/
