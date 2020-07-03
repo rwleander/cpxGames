@@ -37,7 +37,8 @@ def read_buttons(i):
       cp.play_file(beep_sound)
       n = n + 1
     if cp.button_b:
-      done = 1
+      if n > 0:
+        done = 1
     if n > 2:
       n = 1
     if n > i:

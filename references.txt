@@ -1,22 +1,30 @@
 References
 
+Introduction:
+
+Installing Mu Editor:
+  https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor
+
+
+Appendix B:
+
 Circuit Python Quick-Start 
-https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart
+  https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart
 
 Circuit Playground Express overview
-https://learn.adafruit.com/adafruit-circuit-playground-express/overview
+  https://learn.adafruit.com/adafruit-circuit-playground-express/overview
 
 Circuit Playground Python library tutorials
-https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/
+  https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/
 
 Circuit Playground cp library reference
-https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/api.html#adafruit_circuitplayground.express.cpx
+  https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/api.html#adafruit_circuitplayground.express.cpx
 
 Circuit Python home page
-https://circuitpython.org/
+  https://circuitpython.org/
 
 Adafruit Circuit Playground products
-https://www.adafruit.com/categories/965
+  https://www.adafruit.com/categories/965
 
 Adafruit home page
-https://www.adafruit.com/
+  https://www.adafruit.com/
