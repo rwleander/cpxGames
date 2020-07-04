@@ -67,12 +67,12 @@ def show_pixels(n):
 #  add new aliens
 
 def add_aliens(n):
-  global col1, col2, aliens
+  global col1, col2, aliens 
 
   if n % 5 == 0:
     if aliens < max_aliens:
       rnd = random.randint(1, 3)
-      if rnd == 1 and col1[1] == 0:
+      if rnd == 1 and col1[0] == 0:
         col1[0] = 1
         aliens = aliens + 1
       if rnd == 2 and col2[0] == 0:
@@ -86,13 +86,15 @@ def check_buttons():
 
   if fire == 0:
     if cp.button_a:
-      col1[4] = 11
-      cp.play_file(fire_sound)
-      fire = 1
+      if col1[4] == 0:
+        col1[4] = 11
+        cp.play_file(fire_sound)
+        fire = 1
     if cp.button_b:
-      col2[4] = 11
-      cp.play_file(fire_sound)
-      fire = 1
+      if col2[4] == 0:
+        col2[4] = 11
+        cp.play_file(fire_sound)
+        fire = 1
 
 # clear kills
 
@@ -204,7 +206,7 @@ def play_game():
     if n % 50 == 0:
       d = d - delay_incr
 
-#    print ([col1, col2, aliens, fire, kills])
+#   print ([col1, col2, aliens, fire, kills])
 
   if win_lose == 1:
     cp.play_file(win_sound)
